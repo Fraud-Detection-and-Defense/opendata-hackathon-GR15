@@ -1,3 +1,3 @@
 # opendata-hackathon-GR15
 Bounties &amp; issues for the post GR15 open data hackathon
-![alt text](https://github.com/Fraud-Detection-and-Defense/opendata-hackathon-GR15/issues/1)
+![banner for readme n stuff](https://user-images.githubusercontent.com/8564403/191556788-13cf8afa-9aa1-4341-81b4-7f892efa4168.png)
